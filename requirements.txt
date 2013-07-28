@@ -1,0 +1,21 @@
+
+JavaScript objects and methods
+
+window.document
+RegExp
+window.localStorage
+window.sessionStorage
+
+Array.concat
+Array.isArray
+Array.push
+Array.slice
+Math.floor
+Math.random
+
+instanceof
+typeof
+
+parseInt('',10)
+
+Object.getPrototypeOf
